@@ -1,0 +1,3 @@
+rootProject.name = 'gomiday'
+
+include ':app'
